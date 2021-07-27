@@ -8,7 +8,7 @@ img: ../../static/images/man-sunrise.jpeg
 imgAlt: Zee
 tags:
   - Zee
-  - a linen valley
-  - altitude events Florida
+  - Linens
+  - Events
 ---
 Zee has been making big days happen for countless people. If you’re looking for experience, Zee has over two decades with A Linen Valley and Altitude Events in Tampa Bay, FL. If you’re looking for excellence, Zee is the ultimate perfectionist.
