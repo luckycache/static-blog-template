@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Meet Zee
-publishedDate: 2021-07-27T13:24:25.708Z
+publishedDate: 2021-07-07T13:24:25.708Z
 description: Zee intro
 featured: true
 img: ../../static/images/man-sunrise.jpeg
